@@ -12,4 +12,4 @@ $ git clone https://github.com/maycomorais/orkut-login.git
 
 ## License
 
-Nest is [MIT licensed](LICENSE).
+[MIT licensed](LICENSE).
